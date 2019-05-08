@@ -18,12 +18,12 @@ section {
 h1 {
   font-family: sans-serif;
   font-size: 2em; /* 2em = 28px */
-}
+} /* header  */
 
 .example {
-  padding-top: 0px;
+  padding-top: 30px;
   text-align: center;
-}
+} /* should the top padding be greater than 10px to be placed higher than h3? */
 
 h3 {
   font-size: 1.3em; /* 1.3em = 18.2px */
@@ -34,4 +34,4 @@ h3 {
   height: 100px;
   margin: 10px 0;
   width: 100%;
-}
+} /* should this padding be more than 30 px to be placed lower than h1? */
