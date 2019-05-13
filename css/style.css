@@ -35,3 +35,10 @@ h3 {
   margin: 10px 0;
   width: 100%;
 } /* should this padding be more than 30 px to be placed lower than h1? */
+
+.element2 {
+  background-color: #D1C2C2;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
